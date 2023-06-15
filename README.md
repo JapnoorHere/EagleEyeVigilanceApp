@@ -17,6 +17,9 @@ discreet recording mode.
 
 <b>Technologies used : </b>
 <ul>
+  
+  <li>Android Development</li>
+  
   <li>Frontend -> XML</li>
 
 <li>Backend -> Kotlin</li>
